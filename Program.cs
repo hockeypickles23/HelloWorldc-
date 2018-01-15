@@ -8,7 +8,7 @@ namespace ConsoleApp1               //namespace given by file name
 {
     class Program                   //class name under the main file
     {
-        static void Main(string[] args)         //main exe 
+        static void Main(string[] args)         //main code writting
         {
             Console.WriteLine("Hello World");       //hello world statement given by write line
         }
